@@ -1,0 +1,1 @@
+prompt_id,category,response_a,response_b,accuracy_a,reasoning_a,relevance_a,completeness_a,instruction_a,clarity_a,weighted_a,accuracy_b,reasoning_b,relevance_b,completeness_b,instruction_b,clarity_b,weighted_b,pairwise_preference,error_type_a,severity_a,error_type_b,severity_b,evidence_and_rationale,verification_source,evaluator_notes
